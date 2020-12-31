@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 linux
 
+=======
+>>>>>>> 570cd4b62f9b41bb5ef07fa592802e8777f4b588
