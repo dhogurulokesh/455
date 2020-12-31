@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 hello linux
 welcome to github
 linux workshop
+=======
+linux
+welcome
+>>>>>>> feature
 hello
 linux
 
